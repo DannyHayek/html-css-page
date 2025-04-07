@@ -73,6 +73,9 @@ a:hover {
 }
 
 ul li {
-    padding: 7px;
-    list-style-image: "../images/sushi-point.png";
+    padding: 10px;
+}
+
+ul {
+    list-style-image: URL('../images/sushi-point-small.png');
 }
