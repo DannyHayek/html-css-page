@@ -8,3 +8,12 @@
     background-color: aquamarine;
     text-align: center;
 }
+
+.image-aside {
+    float: right;
+    padding: 20px;
+    margin: 30px;
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+}
