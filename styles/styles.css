@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .main-title {
     color: burlywood;
     background-color: aquamarine;
@@ -14,6 +15,7 @@
     float: right;
     padding: 20px;
     margin: 30px;
+    margin-right: 100px;
     border-color: black;
     border-width: 1px;
     border-style: dashed;
@@ -31,7 +33,16 @@
 
 .main-home {
     float: left;
-    max-width: 500px;
+    max-width: 1000px;
+    margin: 30px;
+    padding: 20px;
+}
+
+.main-home-text {
+    text-align: center;
+}
+
+.footer-home {
     margin: 30px;
     padding: 20px;
 }
