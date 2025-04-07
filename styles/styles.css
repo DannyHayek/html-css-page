@@ -71,3 +71,8 @@ a:hover {
     background-color: aquamarine;
     color:burlywood;
 }
+
+ul li {
+    padding: 7px;
+    list-style-image: "../images/sushi-point.png";
+}
