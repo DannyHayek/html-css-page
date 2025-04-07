@@ -56,6 +56,17 @@
     font-weight: bold;
 }
 
+.footer-about {
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    position: static;
+    /* top: 200px;
+    left: 330px; */
+    font-size: xx-large;
+    font-weight: bold;
+}
+
 a:link {
     color:cornflowerblue;
     text-decoration: none;
@@ -77,5 +88,8 @@ ul li {
 }
 
 ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: square;
     list-style-image: URL('../images/sushi-point-small.png');
 }
